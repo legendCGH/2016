@@ -1,0 +1,3 @@
+[submodule "git_submodule_on"]
+	path = git_submodule_on
+	url = https://github.com/legendCGH/git_submodule_on_github.git
